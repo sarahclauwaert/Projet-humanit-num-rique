@@ -1,0 +1,620 @@
+[
+    {
+        "Nom": "Montchevreuil",
+        "Communes supprimées": "Bachivillers, Fresneaux-Montchevreuil",
+        "Régime": "Commune nouvelle",
+        "Décision": "Arrêté préfectoral du 26 décembre 2018[Off. 1]",
+        "Date d’effet": "1er janvier 2019[COG 1]"
+    },
+    {
+        "Nom": "La Corne-en-Vexin",
+        "Communes supprimées": "Boissy-le-Bois, Énencourt-le-Sec, Hardivillers-en-Vexin",
+        "Régime": "Commune nouvelle",
+        "Décision": "Arrêté préfectoral du 28 septembre 2018[Off. 2]",
+        "Date d’effet": "1er janvier 2019[COG 2]"
+    },
+    {
+        "Nom": "Formerie",
+        "Communes supprimées": "Boutavent, Formerie",
+        "Régime": "Commune nouvelle",
+        "Décision": "Arrêté préfectoral du 28 septembre 2018[Off. 3]",
+        "Date d’effet": "1er janvier 2019[COG 3]"
+    },
+    {
+        "Nom": "Les Hauts-Talican",
+        "Communes supprimées": "Beaumont-les-Nonains, La Neuville-Garnier, Villotran",
+        "Régime": "Commune nouvelle",
+        "Décision": "Arrêté préfectoral du 28 septembre 2018[Off. 4]",
+        "Date d’effet": "1er janvier 2019[COG 4]"
+    },
+    {
+        "Nom": "Villers-Saint-Frambourg-Ognon",
+        "Communes supprimées": "Ognon, Villers-Saint-Frambourg",
+        "Régime": "Commune nouvelle",
+        "Décision": "Arrêté préfectoral du 28 septembre 2018[Off. 5]",
+        "Date d’effet": "1er janvier 2019[COG 5]"
+    },
+    {
+        "Nom": "Trie-Château",
+        "Communes supprimées": "Trie-Château, Villers-sur-Trie",
+        "Régime": "Commune nouvelle",
+        "Décision": "Arrêté préfectoral du 29 septembre 2017[Off. 6]",
+        "Date d’effet": "1er janvier 2018[COG 6]"
+    },
+    {
+        "Nom": "Auneuil",
+        "Communes supprimées": "Auneuil, Troussures",
+        "Régime": "Commune nouvelle",
+        "Décision": "Arrêté préfectoral du 30 décembre 2016[Off. 7]",
+        "Date d’effet": "1er janvier 2017[COG 7]"
+    },
+    {
+        "Nom": "La Drenne",
+        "Communes supprimées": "Le Déluge, La Neuville-d'Aumont, Ressons-l'Abbaye",
+        "Régime": "Commune nouvelle",
+        "Décision": "Arrêté préfectoral du 27 mai 2016[Off. 8]",
+        "Date d’effet": "1er janvier 2017[COG 8]"
+    },
+    {
+        "Nom": "Bornel[b]",
+        "Communes supprimées": "Anserville, Bornel, Fosseuse",
+        "Régime": "Commune nouvelle",
+        "Décision": "Arrêté préfectoral du 25 septembre 2015[Off. 9]",
+        "Date d’effet": "1er janvier 2016[COG 9]"
+    },
+    {
+        "Nom": "Saint-Crépin-Ibouvillers",
+        "Communes supprimées": "Montherlant, Saint-Crépin-Ibouvillers",
+        "Régime": "Commune nouvelle",
+        "Décision": "Arrêté préfectoral du 30 septembre 2014[Off. 10]",
+        "Date d’effet": "1er janvier 2015[COG 10]"
+    },
+    {
+        "Nom": "Ribécourt-Dreslincourt",
+        "Communes supprimées": "Dreslincourt, Ribécourt",
+        "Régime": "Commune associée[c]",
+        "Décision": "Arrêté préfectoral du 22 décembre 1972[Off. 11]",
+        "Date d’effet": "1er janvier 1973[COG 11]"
+    },
+    {
+        "Nom": "Verderel-lès-Sauqueuse",
+        "Communes supprimées": "Sauqueuse-Saint-Lucien, Verderel",
+        "Régime": "Commune associée[d]",
+        "Décision": "Arrêté préfectoral du 29 décembre 1972[Off. 11]",
+        "Date d’effet": "1er janvier 1973[COG 12]"
+    },
+    {
+        "Nom": "Maignelay-Montigny",
+        "Communes supprimées": "Maignelay, Montigny",
+        "Régime": "Fusion simple",
+        "Décision": "Arrêté préfectoral du 15 février 1971[Off. 12]",
+        "Date d’effet": "1er mars 1971[COG 13]"
+    },
+    {
+        "Nom": "Méru",
+        "Communes supprimées": "Lardières, Méru",
+        "Régime": "Fusion simple",
+        "Décision": "Arrêté préfectoral du 18 décembre 1963[Off. 13]",
+        "Date d’effet": "1er janvier 1964[COG 14]"
+    },
+    {
+        "Nom": "Catillon-Fumechon",
+        "Communes supprimées": "Catillon, Fumechon",
+        "Régime": "Fusion simple[e]",
+        "Décision": "Arrêté préfectoral du 1er juillet 1960[Off. 14]",
+        "Date d’effet": "7 août 1960[COG 15]"
+    },
+    {
+        "Nom": "Pont-Sainte-Maxence",
+        "Communes supprimées": "Pont-Sainte-Maxence, Sarron[f]",
+        "Régime": "Fusion simple",
+        "Décision": "Décret du 5 juillet 1951[Off. 15]",
+        "Date d’effet": "9 juillet 1951[COG 16]"
+    },
+    {
+        "Nom": "Saint-Martin-Longueau",
+        "Communes supprimées": "Saint-Martin-Longueau, Sarron[f]",
+        "Régime": "Fusion simple",
+        "Décision": "Décret du 5 juillet 1951[Off. 15]",
+        "Date d’effet": "9 juillet 1951[COG 16]"
+    },
+    {
+        "Nom": "Beauvais",
+        "Communes supprimées": "Beauvais, Marissel, Notre-Dame-du-Thil, Saint-Just-des-Marais, Voisinlieu",
+        "Régime": "Fusion simple",
+        "Décision": "Décret du 6 février 1943[Off. 16]",
+        "Date d’effet": "19 février 1943[COG 17]"
+    },
+    {
+        "Nom": "Erquery",
+        "Communes supprimées": "Erquery, Saint-Aubin-sous-Erquery",
+        "Régime": "Fusion simple[g]",
+        "Décision": "Ordonnance du 25 janvier 1828[Arch. 1],[6]"
+    },
+    {
+        "Nom": "Genvry-Beaurains",
+        "Communes supprimées": "Beaurains, Genvry",
+        "Régime": "Fusion simple[h]",
+        "Décision": "Ordonnance du 25 janvier 1828[Arch. 2],[7]"
+    },
+    {
+        "Nom": "Bucamps",
+        "Communes supprimées": "Bucamps, Fresneaux",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1828[Arch. 3]"
+    },
+    {
+        "Nom": "Catigny",
+        "Communes supprimées": "Campagne, Catigny",
+        "Régime": "Fusion simple[i]",
+        "Décision": "Fusion effectuée en 1828[Arch. 4]"
+    },
+    {
+        "Nom": "Crépy-en-Valois",
+        "Communes supprimées": "Bouillant, Crépy-en-Valois",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1828[Arch. 5]"
+    },
+    {
+        "Nom": "Lannoy-Cuillère",
+        "Communes supprimées": "Frettencourt, Lannoy-Cuillère",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1828[Arch. 6]"
+    },
+    {
+        "Nom": "Saint-Martin-Longueau",
+        "Communes supprimées": "Bazicourt, Saint-Martin-Longueau",
+        "Régime": "Fusion simple[j]",
+        "Décision": "Fusion effectuée en 1828[Arch. 7]"
+    },
+    {
+        "Nom": "Saint-Remy-en-l'Eau",
+        "Communes supprimées": "Saint-Remy-en-l'Eau, Valescourt",
+        "Régime": "Fusion simple[k]",
+        "Décision": "Fusion effectuée en 1828[Arch. 8]"
+    },
+    {
+        "Nom": "Salency",
+        "Communes supprimées": "Dominois, Salency",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1828[Arch. 9]"
+    },
+    {
+        "Nom": "Clairoix",
+        "Communes supprimées": "Clairoix, Janville",
+        "Régime": "Fusion simple[l]",
+        "Décision": "Fusion effectuée en 1827[Arch. 10]"
+    },
+    {
+        "Nom": "Ferrières",
+        "Communes supprimées": "Crèvecœur-le-Petit, Ferrières",
+        "Régime": "Fusion simple[m]",
+        "Décision": "Fusion effectuée en 1827[Arch. 11]"
+    },
+    {
+        "Nom": "Jaulzy",
+        "Communes supprimées": "Courtieux, Jaulzy",
+        "Régime": "Fusion simple[n]",
+        "Décision": "Fusion effectuée en 1827[Arch. 12]"
+    },
+    {
+        "Nom": "Longueil-Sainte-Marie",
+        "Communes supprimées": "Rucourt, Longueil-Sainte-Marie",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1827[Arch. 13]"
+    },
+    {
+        "Nom": "Mortemer",
+        "Communes supprimées": "Hainvillers, Mortemer",
+        "Régime": "Fusion simple[o]",
+        "Décision": "Fusion effectuée en 1827[Arch. 14]"
+    },
+    {
+        "Nom": "Quesmy",
+        "Communes supprimées": "Maucourt, Quesmy",
+        "Régime": "Fusion simple[p]",
+        "Décision": "Fusion effectuée en 1827[Arch. 15]"
+    },
+    {
+        "Nom": "Quincampoix",
+        "Communes supprimées": "Gourchelles, Quincampoix",
+        "Régime": "Fusion simple[q]",
+        "Décision": "Fusion effectuée en 1827[Arch. 16]"
+    },
+    {
+        "Nom": "Sacy-le-Grand",
+        "Communes supprimées": "Labruyère, Sacy-le-Grand",
+        "Régime": "Fusion simple[r]",
+        "Décision": "Fusion effectuée en 1827[Arch. 17]"
+    },
+    {
+        "Nom": "Sommereux",
+        "Communes supprimées": "Laverrière, Sommereux",
+        "Régime": "Fusion simple[s]",
+        "Décision": "Fusion effectuée en 1827[Arch. 18]"
+    },
+    {
+        "Nom": "Vez",
+        "Communes supprimées": "Éméville, Vez",
+        "Régime": "Fusion simple[t]",
+        "Décision": "Fusion effectuée en 1827[Arch. 19]"
+    },
+    {
+        "Nom": "Avrigny",
+        "Communes supprimées": "Avrigny, Blincourt, Choisy-la-Victoire",
+        "Régime": "Fusion simple[u]",
+        "Décision": "Fusion effectuée en 1826[Arch. 20]"
+    },
+    {
+        "Nom": "Catillon-Fumechon",
+        "Communes supprimées": "Catillon, Fumechon",
+        "Régime": "Fusion simple[v]",
+        "Décision": "Fusion effectuée en 1826[Arch. 21]"
+    },
+    {
+        "Nom": "Chambors",
+        "Communes supprimées": "Chambors, Lattainville",
+        "Régime": "Fusion simple[w]",
+        "Décision": "Fusion effectuée en 1826[Arch. 22]"
+    },
+    {
+        "Nom": "Chèvreville",
+        "Communes supprimées": "Chèvreville, Sennevières",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1826[Arch. 23]"
+    },
+    {
+        "Nom": "Cramoisy",
+        "Communes supprimées": "Cramoisy, Maysel",
+        "Régime": "Fusion simple[x]",
+        "Décision": "Fusion effectuée en 1826[Arch. 24]"
+    },
+    {
+        "Nom": "Croutoy",
+        "Communes supprimées": "Couloisy, Croutoy",
+        "Régime": "Fusion simple[y]",
+        "Décision": "Fusion effectuée en 1826[Arch. 25]"
+    },
+    {
+        "Nom": "Cuignières",
+        "Communes supprimées": "Erquinvillers, Cuignières",
+        "Régime": "Fusion simple[z]",
+        "Décision": "Fusion effectuée en 1826[Arch. 26]"
+    },
+    {
+        "Nom": "Énencourt-le-Sec",
+        "Communes supprimées": "Hardivillers, Énencourt-le-Sec",
+        "Régime": "Fusion simple[aa]",
+        "Décision": "Fusion effectuée en 1826[Arch. 27]"
+    },
+    {
+        "Nom": "Froissy",
+        "Communes supprimées": "Froissy, Noirémont",
+        "Régime": "Fusion simple[ab]",
+        "Décision": "Fusion effectuée en 1826[Arch. 28]"
+    },
+    {
+        "Nom": "Hémévillers",
+        "Communes supprimées": "Hémévillers, Montmartin",
+        "Régime": "Fusion simple[ac]",
+        "Décision": "Fusion effectuée en 1826[Arch. 29]"
+    },
+    {
+        "Nom": "La Hérelle",
+        "Communes supprimées": "La Hérelle, Mory-Montcrux",
+        "Régime": "Fusion simple[ad]",
+        "Décision": "Fusion effectuée en 1826[Arch. 30]"
+    },
+    {
+        "Nom": "Lataule",
+        "Communes supprimées": "Belloy, Lataule",
+        "Régime": "Fusion simple[ae]",
+        "Décision": "Fusion effectuée en 1826[Arch. 31]"
+    },
+    {
+        "Nom": "Lavilletertre",
+        "Communes supprimées": "Lavilletertre, Saint-Cyr-sur-Chars",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1826[Arch. 32]"
+    },
+    {
+        "Nom": "Longeuil-sous-Thourotte",
+        "Communes supprimées": "Annel, Longeuil-sous-Thourotte",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1826[Arch. 33]"
+    },
+    {
+        "Nom": "Neuville-Bosc",
+        "Communes supprimées": "Chavençon, Neuville-Bosc",
+        "Régime": "Fusion simple[af]",
+        "Décision": "Fusion effectuée en 1826[Arch. 34]"
+    },
+    {
+        "Nom": "Noroy",
+        "Communes supprimées": "Cernoy, Noroy",
+        "Régime": "Fusion simple[ag]",
+        "Décision": "Fusion effectuée en 1826[Arch. 35]"
+    },
+    {
+        "Nom": "Montherlant-Pouilly",
+        "Communes supprimées": "Montherlant, Pouilly",
+        "Régime": "Fusion simple[ah]",
+        "Décision": "Fusion effectuée en 1826[Arch. 36]"
+    },
+    {
+        "Nom": "Saint-Arnoult",
+        "Communes supprimées": "Colagnies, Saint-Arnoult",
+        "Régime": "Fusion simple[ai]",
+        "Décision": "Fusion effectuée en 1826[Arch. 37]"
+    },
+    {
+        "Nom": "Saint-Maur",
+        "Communes supprimées": "Saint-Maur, Thieuloy-Saint-Antoine",
+        "Régime": "Fusion simple[aj]",
+        "Décision": "Fusion effectuée en 1826[Arch. 38]"
+    },
+    {
+        "Nom": "Saint-Quentin-des-Prés",
+        "Communes supprimées": "Hécourt, Mothois, Saint-Quentin-des-Prés",
+        "Régime": "Fusion simple[ak]",
+        "Décision": "Fusion effectuée en 1826[Arch. 39]"
+    },
+    {
+        "Nom": "Sarron",
+        "Communes supprimées": "Les Ageux, Le Plessis-Longueau, Sarron",
+        "Régime": "Fusion simple[al]",
+        "Décision": "Fusion effectuée en 1826[Arch. 40]"
+    },
+    {
+        "Nom": "Versigny",
+        "Communes supprimées": "Droiselles, Versigny",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1826[Arch. 41]"
+    },
+    {
+        "Nom": "Villers-Saint-Sépulcre",
+        "Communes supprimées": "Montreuil-sur-Thérain, Villers-Saint-Sépulcre",
+        "Régime": "Fusion simple[am]",
+        "Décision": "Fusion effectuée en 1826[Arch. 42]"
+    },
+    {
+        "Nom": "Villers-sur-Auchy",
+        "Communes supprimées": "Auchy-en-Bray, Villers-sur-Auchy",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1826[Arch. 43]"
+    },
+    {
+        "Nom": "Chiry-Ourscamp",
+        "Communes supprimées": "Chiry, Ourscamps",
+        "Régime": "Fusion simple",
+        "Décision": "Ordonnance du 31 mars 1825[Arch. 44],[8]"
+    },
+    {
+        "Nom": "Morienval",
+        "Communes supprimées": "Morienval, Saint-Clément",
+        "Régime": "Fusion simple[an]",
+        "Décision": "Ordonnance du 31 mars 1825[Arch. 45],[9]"
+    },
+    {
+        "Nom": "Bailleval",
+        "Communes supprimées": "Bailleval, Béthencourt-Saint-Nicolas",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 46]"
+    },
+    {
+        "Nom": "Betz",
+        "Communes supprimées": "Antilly[ao], Betz, Macquelines",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 47]"
+    },
+    {
+        "Nom": "Bonneuil-les-Eaux",
+        "Communes supprimées": "Bonneuil-les-Eaux, Gouy-les-Groseillers",
+        "Régime": "Fusion simple[ap]",
+        "Décision": "Fusion effectuée en 1825[Arch. 48]"
+    },
+    {
+        "Nom": "Cernoy",
+        "Communes supprimées": "Cernoy, Trois-Étots",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 49]"
+    },
+    {
+        "Nom": "Chamant",
+        "Communes supprimées": "Balagny-sur-Aunette, Chamant",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 50]"
+    },
+    {
+        "Nom": "Courcelles-lès-Gisors",
+        "Communes supprimées": "Beausseré, Courcelles-lès-Gisors",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 51]"
+    },
+    {
+        "Nom": "Feigneux",
+        "Communes supprimées": "Feigneux, Morcourt",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 52]"
+    },
+    {
+        "Nom": "Fontaine-les-Corps-Nus",
+        "Communes supprimées": "Fontaine-les-Corps-Nus, Montlognon",
+        "Régime": "Fusion simple[aq]",
+        "Décision": "Fusion effectuée en 1825[Arch. 53]"
+    },
+    {
+        "Nom": "Fresnoy-la-Rivière",
+        "Communes supprimées": "Fresnoy-la-Rivière, Pondron",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 54]"
+    },
+    {
+        "Nom": "Fresnoy-le-Luat",
+        "Communes supprimées": "Ducy, Fresnoy, Le Luat",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 55]"
+    },
+    {
+        "Nom": "Le Frestoy-Vaux",
+        "Communes supprimées": "Le Frestoy, Le Ployron, Le Tronquoy, Vaux",
+        "Régime": "Fusion simple[ar]",
+        "Décision": "Fusion effectuée en 1825[Arch. 56]"
+    },
+    {
+        "Nom": "Gilocourt",
+        "Communes supprimées": "Béthancourt, Gilocourt",
+        "Régime": "Fusion simple[as]",
+        "Décision": "Fusion effectuée en 1825[Arch. 57]"
+    },
+    {
+        "Nom": "Grandvillers-aux-Bois",
+        "Communes supprimées": "Beaupuits, Grandvillers-aux-Bois",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 58]"
+    },
+    {
+        "Nom": "Hadancourt-le-Haut-Clocher",
+        "Communes supprimées": "Hadancourt-le-Haut-Clocher, Lèvemont",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 59]"
+    },
+    {
+        "Nom": "Lannoy-Cuillère",
+        "Communes supprimées": "Lannoy-Cuillère, Rothois",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 6]"
+    },
+    {
+        "Nom": "Lamorlaye",
+        "Communes supprimées": "Le Lys, Lamorlaye",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 60]"
+    },
+    {
+        "Nom": "Longueil-Sainte-Marie",
+        "Communes supprimées": "Bois-d'Ajeux, Longueil-Sainte-Marie",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 13]"
+    },
+    {
+        "Nom": "Maimbeville",
+        "Communes supprimées": "Fouilleuse, Maimbeville",
+        "Régime": "Fusion simple[at]",
+        "Décision": "Fusion effectuée en 1825[Arch. 61]"
+    },
+    {
+        "Nom": "Mareuil-sur-Ourcq",
+        "Communes supprimées": "Fulaines, Mareuil-sur-Ourcq",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 62]"
+    },
+    {
+        "Nom": "Martincourt",
+        "Communes supprimées": "Martincourt, Vrocourt",
+        "Régime": "Fusion simple[au]",
+        "Décision": "Fusion effectuée en 1825[Arch. 63]"
+    },
+    {
+        "Nom": "Neuilly-sous-Clermont",
+        "Communes supprimées": "Auvillers, Neuilly-sous-Clermont",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 64]"
+    },
+    {
+        "Nom": "Rully",
+        "Communes supprimées": "Bray, Rully",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 65]"
+    },
+    {
+        "Nom": "Saint-Félix",
+        "Communes supprimées": "Hondainville, Saint-Félix",
+        "Régime": "Fusion simple[av]",
+        "Décision": "Fusion effectuée en 1825[Arch. 66]"
+    },
+    {
+        "Nom": "Sarcus",
+        "Communes supprimées": "Élencourt, Sarcus",
+        "Régime": "Fusion simple[aw]",
+        "Décision": "Fusion effectuée en 1825[Arch. 67]"
+    },
+    {
+        "Nom": "Sérifontaine",
+        "Communes supprimées": "Droittecourt, Sérifontaine",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 68]"
+    },
+    {
+        "Nom": "Tartigny",
+        "Communes supprimées": "Rouvroy-les-Merles, Tartigny",
+        "Régime": "Fusion simple[ax]",
+        "Décision": "Fusion effectuée en 1825[Arch. 69]"
+    },
+    {
+        "Nom": "Vaumoise",
+        "Communes supprimées": "Bémont, Russy-Montigny, Vaumoise",
+        "Régime": "Fusion simple[ay]",
+        "Décision": "Fusion effectuée en 1825[Arch. 70]"
+    },
+    {
+        "Nom": "Villeneuve-sur-Verberie",
+        "Communes supprimées": "Noël-Saint-Martin, Villeneuve-sur-Verberie, Yvillers",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1825[Arch. 71]"
+    },
+    {
+        "Nom": "Mortefontaine",
+        "Communes supprimées": "Montmélian (Seine-et-Marne), Mortefontaine",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée entre 1795 et 1800[Cass. 1]"
+    },
+    {
+        "Nom": "Saint-Just-en-Chaussée",
+        "Communes supprimées": "La Rue-Prévost, Saint-Just-en-Chaussée",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1793[Arch. 72]"
+    },
+    {
+        "Nom": "Chaumont",
+        "Communes supprimées": "Chaumont, Laillerie, Saint-Brice",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1791[Arch. 73]"
+    },
+    {
+        "Nom": "Morienval",
+        "Communes supprimées": "Morienval, Saint-Clément",
+        "Régime": "Fusion simple[an]",
+        "Décision": "Fusion effectuée en 1791[Arch. 45]"
+    },
+    {
+        "Nom": "Romescamps",
+        "Communes supprimées": "Abancourt, Romescamps",
+        "Régime": "Fusion simple[az]",
+        "Décision": "Fusion effectuée en 1791[Arch. 74]"
+    },
+    {
+        "Nom": "Boubiers",
+        "Communes supprimées": "Boubiers, Le Fayel",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1790[Arch. 75]"
+    },
+    {
+        "Nom": "Cormeilles",
+        "Communes supprimées": "Cormeilles, Le Crocq",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée entre 1790 et 1794[Cass. 2]"
+    },
+    {
+        "Nom": "Conchy-les-Pots",
+        "Communes supprimées": "Chaumont, Le Plessier-Saint-Nicaise",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée entre 1790 et 1794[Cass. 3]"
+    },
+    {
+        "Nom": "Vineuil-Saint-Firmin",
+        "Communes supprimées": "Saint-Firmin, Vineuil",
+        "Régime": "Fusion simple",
+        "Décision": "Fusion effectuée en 1790 et 1794[Arch. 76],[Cass. 4]"
+    }
+]

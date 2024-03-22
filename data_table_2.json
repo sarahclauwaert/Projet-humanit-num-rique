@@ -1,0 +1,415 @@
+[
+    {
+        "Nom": "Aux Marais[ba]",
+        "Commune affectée": "Saint-Martin-le-Nœud",
+        "Mode de création": "Démembrement",
+        "Décision": "Arrêté préfectoral du 9 janvier 1954[Off. 17],[Off. 18]",
+        "Date d’effet": "15 janvier 1954[COG 18]"
+    },
+    {
+        "Nom": "Voisinlieu",
+        "Commune affectée": "Allonne",
+        "Mode de création": "Démembrement",
+        "Décision": "Loi du 19 juillet 1930[Off. 19]",
+        "Date d’effet": "26 juillet 1930"
+    },
+    {
+        "Nom": "Bacouël",
+        "Commune affectée": "Chepoix",
+        "Mode de création": "Démembrement",
+        "Décision": "Loi du 19 juin 1867[Off. 20]",
+        "Date d’effet": "Loi du 19 juin 1867[Off. 20]"
+    },
+    {
+        "Nom": "La Neuville-Vault",
+        "Commune affectée": "Milly",
+        "Mode de création": "Démembrement",
+        "Décision": "Ordonnance du 25 juin 1843[Off. 21]",
+        "Date d’effet": "Ordonnance du 25 juin 1843[Off. 21]"
+    },
+    {
+        "Nom": "Herchies",
+        "Commune affectée": "Fouquenies",
+        "Mode de création": "Démembrement",
+        "Décision": "Ordonnance du 27 février 1839[Off. 22]",
+        "Date d’effet": "Ordonnance du 27 février 1839[Off. 22]"
+    },
+    {
+        "Nom": "Belloy",
+        "Commune affectée": "Lataule",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 26 avril 1835[Off. 23]",
+        "Date d’effet": "Ordonnance du 26 avril 1835[Off. 23]"
+    },
+    {
+        "Nom": "Béthancourt",
+        "Commune affectée": "Gilocourt",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 26 avril 1835[Off. 23]",
+        "Date d’effet": "Ordonnance du 26 avril 1835[Off. 23]"
+    },
+    {
+        "Nom": "Gouy-les-Groseillers",
+        "Commune affectée": "Bonneuil-les-Eaux",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 26 avril 1835[Off. 23]",
+        "Date d’effet": "Ordonnance du 26 avril 1835[Off. 23]"
+    },
+    {
+        "Nom": "Lhéraule",
+        "Commune affectée": "Haucourt",
+        "Mode de création": "Démembrement",
+        "Décision": "Ordonnance du 26 avril 1835[Off. 23]",
+        "Date d’effet": "Ordonnance du 26 avril 1835[Off. 23]"
+    },
+    {
+        "Nom": "Montreuil-sur-Thérain",
+        "Commune affectée": "Villers-Saint-Sépulcre",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 26 avril 1835[Off. 23]",
+        "Date d’effet": "Ordonnance du 26 avril 1835[Off. 23]"
+    },
+    {
+        "Nom": "Le Mont-Saint-Adrien",
+        "Commune affectée": "Saint-Paul",
+        "Mode de création": "Démembrement",
+        "Décision": "Ordonnance du 26 avril 1835[Off. 23]",
+        "Date d’effet": "Ordonnance du 26 avril 1835[Off. 23]"
+    },
+    {
+        "Nom": "Novillers",
+        "Commune affectée": "Sainte-Geneviève",
+        "Mode de création": "Démembrement",
+        "Décision": "Ordonnance du 26 avril 1835[Off. 23]",
+        "Date d’effet": "Ordonnance du 26 avril 1835[Off. 23]"
+    },
+    {
+        "Nom": "Trie-la-Ville",
+        "Commune affectée": "Trie-Château",
+        "Mode de création": "Démembrement",
+        "Décision": "Ordonnance du 26 avril 1835[Off. 23]",
+        "Date d’effet": "Ordonnance du 26 avril 1835[Off. 23]"
+    },
+    {
+        "Nom": "Bazicourt",
+        "Commune affectée": "Saint-Martin-Longueau",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 4 février 1834[Off. 24]",
+        "Date d’effet": "Ordonnance du 4 février 1834[Off. 24]"
+    },
+    {
+        "Nom": "Fouilleuse",
+        "Commune affectée": "Maimbeville",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 4 février 1834[Off. 24]",
+        "Date d’effet": "Ordonnance du 4 février 1834[Off. 24]"
+    },
+    {
+        "Nom": "La Neuville-Saint-Pierre",
+        "Commune affectée": "Reuil-sur-Brêche",
+        "Mode de création": "Démembrement",
+        "Décision": "Ordonnance du 4 février 1834[Off. 24]",
+        "Date d’effet": "Ordonnance du 4 février 1834[Off. 24]"
+    },
+    {
+        "Nom": "Catillon, Fumechon",
+        "Commune affectée": "Catillon-Fumechon",
+        "Mode de création": "Démembrement et suppression[bb]",
+        "Décision": "Ordonnance de 8 janvier 1834[Off. 25]",
+        "Date d’effet": "Ordonnance de 8 janvier 1834[Off. 25]"
+    },
+    {
+        "Nom": "Les Ageux",
+        "Commune affectée": "Sarron",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 5],[10]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 5],[10]"
+    },
+    {
+        "Nom": "Antilly",
+        "Commune affectée": "Betz",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 6]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 6]"
+    },
+    {
+        "Nom": "Cernoy",
+        "Commune affectée": "Noroy",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 7]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 7]"
+    },
+    {
+        "Nom": "Chavençon",
+        "Commune affectée": "Neuville-Bosc",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 8]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 8]"
+    },
+    {
+        "Nom": "Éméville",
+        "Commune affectée": "Vez",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 9]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 9]"
+    },
+    {
+        "Nom": "Giraumont",
+        "Commune affectée": "Coudun",
+        "Mode de création": "Démembrement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 10]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 10]"
+    },
+    {
+        "Nom": "Gourchelles",
+        "Commune affectée": "Quincampoix",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 11]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 11]"
+    },
+    {
+        "Nom": "Hainvillers",
+        "Commune affectée": "Mortemer",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 12]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 12]"
+    },
+    {
+        "Nom": "Hardivillers",
+        "Commune affectée": "Énencourt-le-Sec",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 13]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 13]"
+    },
+    {
+        "Nom": "Labruyère",
+        "Commune affectée": "Sacy-le-Grand",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 14]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 14]"
+    },
+    {
+        "Nom": "Laverrière",
+        "Commune affectée": "Sommereux",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 15]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 15]"
+    },
+    {
+        "Nom": "Montlognon",
+        "Commune affectée": "Fontaine-les-Corps-Nus",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 16]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 16]"
+    },
+    {
+        "Nom": "Mory-Montcrux",
+        "Commune affectée": "La Hérelle",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 17]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 17]"
+    },
+    {
+        "Nom": "Noirémont",
+        "Commune affectée": "Froissy",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 18]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 18]"
+    },
+    {
+        "Nom": "Saint-Aubin-sous-Erquery",
+        "Commune affectée": "Erquery",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 19]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 19]"
+    },
+    {
+        "Nom": "Tartigny",
+        "Commune affectée": "Rouvroy-les-Merles",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 20]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 20]"
+    },
+    {
+        "Nom": "Troussures",
+        "Commune affectée": "Villers-Saint-Barthélemy",
+        "Mode de création": "Démembrement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 21]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 21]"
+    },
+    {
+        "Nom": "Vrocourt",
+        "Commune affectée": "Martincourt",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance du 15 septembre 1833[Cass. 22]",
+        "Date d’effet": "Ordonnance du 15 septembre 1833[Cass. 22]"
+    },
+    {
+        "Nom": "Beaurains",
+        "Commune affectée": "Genvry",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 23]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 23]"
+    },
+    {
+        "Nom": "Blincourt, Choisy-la-Victoire",
+        "Commune affectée": "Avrigny",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 24],[Cass. 25]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 24],[Cass. 25]"
+    },
+    {
+        "Nom": "Campagne",
+        "Commune affectée": "Catigny",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 26]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 26]"
+    },
+    {
+        "Nom": "Couloisy",
+        "Commune affectée": "Croutoy",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 27]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 27]"
+    },
+    {
+        "Nom": "Courtieux",
+        "Commune affectée": "Jaulzy",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 28]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 28]"
+    },
+    {
+        "Nom": "Crèvecœur-le-Petit",
+        "Commune affectée": "Ferrières",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 29]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 29]"
+    },
+    {
+        "Nom": "Le Crocq",
+        "Commune affectée": "Cormeilles",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 30]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 30]"
+    },
+    {
+        "Nom": "Élencourt",
+        "Commune affectée": "Sarcus",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 31]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 31]"
+    },
+    {
+        "Nom": "Erquinvillers",
+        "Commune affectée": "Cuignières",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 32]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 32]"
+    },
+    {
+        "Nom": "Grez",
+        "Commune affectée": "Le Hamel",
+        "Mode de création": "Démembrement",
+        "Décision": "Ordonnance de 1832[Cass. 33]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 33]"
+    },
+    {
+        "Nom": "Hondainville",
+        "Commune affectée": "Saint-Félix",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 34]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 34]"
+    },
+    {
+        "Nom": "Janville",
+        "Commune affectée": "Clairoix",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 35]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 35]"
+    },
+    {
+        "Nom": "Lattainville",
+        "Commune affectée": "Chambors",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 36]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 36]"
+    },
+    {
+        "Nom": "Maucourt",
+        "Commune affectée": "Quesmy",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 37]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 37]"
+    },
+    {
+        "Nom": "Maysel",
+        "Commune affectée": "Cramoisy",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 38]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 38]"
+    },
+    {
+        "Nom": "Montmartin",
+        "Commune affectée": "Hémévillers",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 39]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 39]"
+    },
+    {
+        "Nom": "Pouilly",
+        "Commune affectée": "Montherlant",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 40]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 40]"
+    },
+    {
+        "Nom": "Russy-Bémont",
+        "Commune affectée": "Vaumoise",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 41]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 41]"
+    },
+    {
+        "Nom": "Thieuloy-Saint-Antoine",
+        "Commune affectée": "Saint-Maur",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 42]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 42]"
+    },
+    {
+        "Nom": "Valescourt",
+        "Commune affectée": "Saint-Remy-en-l'Eau",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 43]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 43]"
+    },
+    {
+        "Nom": "Villers-sur-Trie",
+        "Commune affectée": "Énencourt-Léage",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1832[Cass. 44]",
+        "Date d’effet": "Ordonnance de 1832[Cass. 44]"
+    },
+    {
+        "Nom": "Abancourt, Blargies",
+        "Commune affectée": "Romescamps",
+        "Mode de création": "Rétablissement",
+        "Décision": "Ordonnance de 1823[Cass. 45]",
+        "Date d’effet": "Ordonnance de 1823[Cass. 45]"
+    },
+    {
+        "Nom": "Saint-Clément",
+        "Commune affectée": "Morienval",
+        "Mode de création": "Rétablissement",
+        "Décision": "Rétablissement lors de l'an VII (1798-1799)[Arch. 45]",
+        "Date d’effet": "Rétablissement lors de l'an VII (1798-1799)[Arch. 45]"
+    },
+    {
+        "Nom": "Valescourt",
+        "Commune affectée": "Saint-Remy-en-l'Eau",
+        "Mode de création": "Démembrement",
+        "Décision": "Démembrement en 1791[Arch. 77]",
+        "Date d’effet": "Démembrement en 1791[Arch. 77]"
+    }
+]
